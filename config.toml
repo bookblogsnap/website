@@ -1,5 +1,5 @@
 baseurl = "https://bookblogsnap.github.io/website/"
-title = "Universal"
+title = "Book Blog Snap"
 theme = "hugo-universal-theme"
 publishDir = "docs"
 languageCode = "en-us"
